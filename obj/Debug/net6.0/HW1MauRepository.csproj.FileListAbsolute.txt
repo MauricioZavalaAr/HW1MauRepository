@@ -1,0 +1,15 @@
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\bin\Debug\net6.0\HW1MauRepository.exe
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\bin\Debug\net6.0\HW1MauRepository.deps.json
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\bin\Debug\net6.0\HW1MauRepository.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\bin\Debug\net6.0\HW1MauRepository.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\bin\Debug\net6.0\HW1MauRepository.pdb
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\obj\Debug\net6.0\HW1MauRepository.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\obj\Debug\net6.0\HW1MauRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\obj\Debug\net6.0\HW1MauRepository.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\obj\Debug\net6.0\HW1MauRepository.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\obj\Debug\net6.0\HW1MauRepository.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\obj\Debug\net6.0\HW1MauRepository.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\obj\Debug\net6.0\refint\HW1MauRepository.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\obj\Debug\net6.0\HW1MauRepository.pdb
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\obj\Debug\net6.0\HW1MauRepository.genruntimeconfig.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\HW1DayClass1\HW1MauRepository\obj\Debug\net6.0\ref\HW1MauRepository.dll
